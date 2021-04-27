@@ -1,0 +1,18 @@
+/*
+
+    COMPILE THIS FILE WITHOUT COMPILING EVERYTHING
+
+    THIS FILE ALLOWS C TO BE PASSED NORMALLY, WITHOUT HAVING TO CALL DOORSMAIN().
+
+
+    Doors->64Part
+
+    Kai Gonzalez 2021
+*/
+
+
+bits 64
+
+
+
+section .text
